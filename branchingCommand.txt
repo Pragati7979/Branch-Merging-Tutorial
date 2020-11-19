@@ -1,0 +1,20 @@
+How to make new branch?
+-->git checkout -b branchName
+
+How to come back at master branch?
+-->git checkout master
+
+How to merge branch?
+-->git merge branchName
+
+How to push branches?
+Make changes according to your need. 
+Push the branch to the remote 
+-->git push origin branchName 
+merge the branch
+-->git merge branchName
+
+how to delete the branch?
+
+git branch -d branchName
+
