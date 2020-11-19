@@ -1,2 +1,3 @@
 This is my text file.
 This is present in master branch.
+The changes are made in PragatiBranch.
