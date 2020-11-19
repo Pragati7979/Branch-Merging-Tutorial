@@ -10,9 +10,14 @@ How to merge branch?
 How to push branches?
 Make changes according to your need. 
 Push the branch to the remote 
--->git push origin branchName 
+-->git add file
+-->git commit -m "message"
+-->git push origin branchName
+-->switch to master branch 
 merge the branch
 -->git merge branchName
+-->git push origin master
+then you can delete the newBranch
 
 how to delete the branch?
 
