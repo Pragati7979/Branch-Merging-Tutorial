@@ -18,3 +18,5 @@ how to delete the branch?
 
 git branch -d branchName
 
+this has been commited in NewBranch.
+
